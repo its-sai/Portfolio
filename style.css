@@ -280,7 +280,7 @@ form textarea {
   height: 40px;
 }
 
-/* Making Responsive */
+
 @media (max-width: 991px) {
   header {
     padding: 18px 4%;
